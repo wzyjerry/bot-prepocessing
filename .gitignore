@@ -1,3 +1,8 @@
+# data
+data/entities
+data/clean/keywords_zh.txt
+data/clean/names_zh.txt
+data/clean/part.txt
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
